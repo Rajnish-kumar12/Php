@@ -66,4 +66,4 @@ $l = 12;
 echo $o != $l; //return 1 beacuse $o not equal to $l
 ?>
 
-<!-- Note::: it is bad practise to write more than one php block i single file , like i used above(this is for implementation purpose) -->
+<!-- Note::: it is bad practise to write more than one php block in single file , like i used above(this is for implementation purpose) -->
